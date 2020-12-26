@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "User Agreement Reader",
+    "version": "1.0",
+    "description": "Расширение позволяет анализировать текст пользовательского соглашения на странице браузера и выдавать краткую сводку по спорным правовым формулировкам в соглашении.",
+    "browser_action": {
+        "default_title": "User Agreement Reader",
+        "default_icon": "reader_icon.png",
+        "default_popup": "popup.html",
+        "permissions": [""]
+    }
+
+}

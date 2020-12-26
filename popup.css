@@ -1,0 +1,17 @@
+
+/* Вроде как сбрасывает дефолтные настройки коробки веб-браузера  */
+* {
+  box-sizing: border-box;
+}
+
+/* Сброс дефолтных настроек таблицы стилей веб-браузера  */
+body {
+  background-color: #FFF;
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: red;
+}
